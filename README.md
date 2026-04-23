@@ -1,1 +1,2 @@
-# pythonprojects
+# WIP News aggregator
+
